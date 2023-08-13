@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/quicksell_frontend_kanbanboard/static/css/main.ee82e999.css",
-    "main.js": "/quicksell_frontend_kanbanboard/static/js/main.30cc8b55.js",
+    "main.css": "/quicksell_frontend_kanbanboard/static/css/main.5924612b.css",
+    "main.js": "/quicksell_frontend_kanbanboard/static/js/main.449b0fc5.js",
     "static/js/787.0dc1bfd1.chunk.js": "/quicksell_frontend_kanbanboard/static/js/787.0dc1bfd1.chunk.js",
     "index.html": "/quicksell_frontend_kanbanboard/index.html",
-    "main.ee82e999.css.map": "/quicksell_frontend_kanbanboard/static/css/main.ee82e999.css.map",
-    "main.30cc8b55.js.map": "/quicksell_frontend_kanbanboard/static/js/main.30cc8b55.js.map",
+    "main.5924612b.css.map": "/quicksell_frontend_kanbanboard/static/css/main.5924612b.css.map",
+    "main.449b0fc5.js.map": "/quicksell_frontend_kanbanboard/static/js/main.449b0fc5.js.map",
     "787.0dc1bfd1.chunk.js.map": "/quicksell_frontend_kanbanboard/static/js/787.0dc1bfd1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee82e999.css",
-    "static/js/main.30cc8b55.js"
+    "static/css/main.5924612b.css",
+    "static/js/main.449b0fc5.js"
   ]
 }
